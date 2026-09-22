@@ -121,7 +121,7 @@ Politique de Google : [policies.google.com/privacy](https://policies.google.com/
 
 **Les textes envoyés à Anthropic** ne sont pas conservés par Athénée après que la réponse est reçue. Le résultat — la note d'un exercice, la leçon créée — est conservé avec ta progression.
 
-**Si tu demandes la suppression de ton compte**, toutes tes données sont effacées de nos serveurs dans les trente jours. Les données chez RevenueCat sont effacées selon leur propre délai.
+**Si tu supprimes ton compte**, toutes tes données sont effacées de nos serveurs dans les trente jours. Les données chez RevenueCat sont effacées selon leur propre délai.
 
 ---
 
@@ -133,7 +133,7 @@ Tu peux à tout moment :
 - **Corriger** une information inexacte.
 - **Exporter** ta progression.
 - **Effacer** ta progression toi-même, directement dans les réglages de l'application.
-- **Supprimer** ton compte et tout ce qui va avec, en nous écrivant.
+- **Supprimer** ton compte et tout ce qui va avec, directement dans les réglages de l'application.
 - **Retirer ton consentement** à l'envoi de textes vers Anthropic, en n'utilisant pas les exercices Feynman ni l'import.
 
 Pour exercer ces droits : [adresse e-mail à compléter]
