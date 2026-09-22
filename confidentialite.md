@@ -77,7 +77,7 @@ Athénée s'appuie sur trois services externes. Chacun reçoit uniquement ce don
 
 ### Supabase — hébergement du compte et de la progression
 
-Supabase héberge ton compte, ta progression et tes réglages. Les serveurs sont situés dans l'Union européenne.
+Supabase héberge ton compte, ta progression et tes réglages. Les serveurs sont situés au Royaume-Uni, qui bénéficie d'une décision d'adéquation de la Commission européenne.
 
 Ce qui y est stocké : ton identifiant anonyme, ton e-mail ou identifiant Apple ou Google si tu as créé un compte, ta progression, tes réglages, l'historique de tes exercices corrigés et de tes imports (sans leur texte), l'état de ton abonnement.
 
